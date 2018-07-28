@@ -36,3 +36,7 @@ This is a list which contains all those people who I think persistent and makes 
 
 #### Eminem
 Rap God
+
+
+#### 宋岳庭
+告诉我们一首好的`rap song`需要经过无数次的演唱练习，并在不断地**修改歌词、音调与演唱技法**的过程中不让自己感到厌烦。(毕竟他只有一台老式录音机)
