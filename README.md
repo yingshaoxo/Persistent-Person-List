@@ -23,9 +23,7 @@ This is a list which contains all those people who I think persistent and makes 
 
 
 #### [Thomas Alva Edison](https://en.wikipedia.org/wiki/Thomas_Edison)
-一个失败3000次仍进行下一次实验的男人
-
-America's greatest inventor
+一个失败3000次仍进行下一次实验的男人 ; America's greatest inventor
 
 
 #### 乐嘉
