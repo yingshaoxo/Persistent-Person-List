@@ -22,7 +22,7 @@ This is a list which contains all those people who I think persistent and makes 
 狭义的民族主义者，研究了中国人的思维习惯，不会说英语
 
 
-#### Thomas Alva Edison
+#### [Thomas Alva Edison](https://en.wikipedia.org/wiki/Thomas_Edison)
 一个失败3000次仍进行下一次实验的男人
 
 America's greatest inventor
