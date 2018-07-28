@@ -1,7 +1,7 @@
 # Persistent-Person-List
 This is a list which contains all those people who I think persistent and makes great things in this world.
 
-### Educator (教育家)
+## Educator (教育家)
 
 #### 李宗仁
 指出人的本性
@@ -24,7 +24,7 @@ This is a list which contains all those people who I think persistent and makes 
 
 ___
 
-### Scientist (科学家)
+## Scientist (科学家)
 
 #### [Thomas Alva Edison](https://en.wikipedia.org/wiki/Thomas_Edison)
 一个失败3000次仍进行下一次实验的男人 ; America's greatest inventor
@@ -36,7 +36,7 @@ ___
 
 ___
 
-### Artist (艺术家)
+## Artist (艺术家)
 
 #### 许嵩
 永不停止对精致作品的追求
