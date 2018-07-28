@@ -32,3 +32,7 @@ This is a list which contains all those people who I think persistent and makes 
 
 #### 许嵩
 永不停止对精致作品的追求
+
+
+#### Eminem
+Rap God
