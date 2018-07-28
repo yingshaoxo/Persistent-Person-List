@@ -10,7 +10,7 @@ This is a list which contains all those people who I think persistent and makes 
 #### 袁腾飞
 私人教育顶尖人物之一，敢于说真话，反洗脑
 
-#### (Khan)[https://www.khanacademy.org/]
+#### [Khan](https://www.khanacademy.org)
 “学生是上帝，教人能听懂的知识”
 
 #### 艾跃进
