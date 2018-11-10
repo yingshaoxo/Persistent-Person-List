@@ -11,7 +11,7 @@ This is a list which contains all those people who I think persistent and makes 
 中国进步阶级教育者，敢于指出语言学习的本质
 
 
-#### 袁腾飞
+#### (早期)袁腾飞
 私人教育顶尖人物之一，敢于说真话，反洗脑
 
 
