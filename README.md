@@ -19,6 +19,10 @@ This is a list which contains all those people who I think persistent and makes 
 “学生是上帝，教人能听懂的知识”
 
 
+#### [sentdex](https://pythonprogramming.net)
+既通俗又专业，坚持奋战在 Python 教学第一线
+
+
 #### 艾跃进
 狭义的民族主义者，研究了中国人的思维习惯，不会说英语
 
