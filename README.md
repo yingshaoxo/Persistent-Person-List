@@ -6,7 +6,7 @@ ___
 ## Scientist (科学家)
 
 #### [Thomas Alva Edison](https://en.wikipedia.org/wiki/Thomas_Edison)
-一个失败3000次仍进行下一次实验的男人 ; America's greatest inventor
+America's greatest inventor | 一个失败3000次仍进行下一次实验的男人
 
 ___
 
@@ -40,7 +40,7 @@ ___
 ## Political Leaders (政治领袖)
 
 #### [Winston Churchill](https://en.wikipedia.org/wiki/Winston_Churchill)
-"Never, never, never give up."
+"Never, never, never give up." | “永不放弃”
 ___
 
 ## Artist (艺术家)
