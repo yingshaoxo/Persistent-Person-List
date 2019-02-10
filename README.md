@@ -25,15 +25,11 @@ ___
 
 
 #### [Khan](https://www.khanacademy.org)
-“学生是上帝，教人能听懂的知识”
+Khan Academy, a website to help you learn math from kindergarten to University | “学生是上帝，教人能听懂的知识”
 
 
 #### [sentdex](https://pythonprogramming.net)
-既通俗又专业，坚持奋战在 Python 教学第一线
-
-
-#### 艾跃进
-狭义的民族主义者，研究了中国人的思维习惯，不会说英语
+Python Teching Enthusiast | 既通俗又专业，坚持奋战在 Python 教学第一线
 
 ___
 
