@@ -62,3 +62,13 @@ ___
 
 #### 乐嘉
 自学成才的平民演说家
+
+___
+
+## Virtual Roles
+
+#### Robinson Crusoe
+If he is lazy and easy to give up, he would be dead for a long time.
+
+#### John Rambo
+You know what, I don't think a person who easily gives up can make himself that strong.
